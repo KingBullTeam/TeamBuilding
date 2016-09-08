@@ -3,21 +3,31 @@
 ## 开发环境配置
 
 
+###开发规范
+
+*	js
+	*	[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/es5)	
+
+*	css
+	*	[css & sass Style Guide](https://github.com/airbnb/css)	
+
 ####项目现有技术栈：
 *	js框架或者库
-	*	jQuery
+	*	[JQuery](http://www.css88.com/jqapi-1.9/)
 	*	[Backbone](http://www.css88.com/doc/backbone/)
-	*	[Require.js](http://www.requirejs.cn/)
-	
-	
+	*	[zepto](http://www.css88.com/doc/zeptojs_api/)
+	*	推荐学习
+		*	[vue](http://cn.vuejs.org/)	
+		*	[vux](https://github.com/airyland/vux)
 	
 *	CSS & UI
 	*	[淘宝的REM](https://github.com/amfe/lib-flexible)
-	*	[Amaze UI](http://amazeui.org/)	
 	*	[移动端全兼容的flexbox速成班](https://isux.tencent.com/flexbox.html)
+	*	[Amaze UI](http://amazeui.org/)		
+	*	**[weui](https://github.com/weui/weui)**
 	
 *	构建工具
-	*	[gulp](http://www.gulpjs.com.cn/)	-	务必学会使用
+	*	[gulp](http://www.gulpjs.com.cn/)
 	*	[Node.js](http://www.runoob.com/nodejs/nodejs-tutorial.html)
 	*	[npm](https://docs.npmjs.com/)		
 	*	[webpack](http://webpack.github.io/)
@@ -25,12 +35,7 @@
 
 
 
-*	开发环境（选择自己顺手的）
-	*	[IntelliJ IDEA](http://www.jetbrains.com/idea/?fromMenu)	
-	*	[WebStrom](http://www.jetbrains.com/webstorm/?fromMenu)	
-	*	[Sublime Text](http://www.sublimetext.com/)
-	*	[Atom](https://atom.io/)
-	
+
 *	版本控制
 	*	[git](https://git-scm.com/download)	
 		*	[git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
@@ -44,17 +49,9 @@
 	*	[微信web开发者工具](https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)
 	
 
-###开发规范
-
-*	js
-	*	[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/es5)	
-
-*	css
-	*	[css & sass Style Guide](https://github.com/airbnb/css)	
 
 ###前端的MVC
 
 以下资料提供大家学习：
 
-*	[前端MVC变形记](http://efe.baidu.com/blog/mvc-deformation/)
-*	[PC端架构（前端开发）的改造](https://github.com/icepy/none-writing/issues/29#rd)		
+*	[前端MVC变形记](http://efe.baidu.com/blog/mvc-deformation/)		
