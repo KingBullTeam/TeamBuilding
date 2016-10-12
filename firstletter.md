@@ -8,7 +8,7 @@
 
 
 *	js
-	*	es5[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/es5)	
+	*	es5[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)	
 	*	[es6](https://github.com/airbnb/javascript)
 
 *	css
