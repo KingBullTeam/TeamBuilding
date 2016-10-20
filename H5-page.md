@@ -13,4 +13,5 @@
 	* [font awesome](http://fontawesome.dashgame.com/)
 * JS
 * plugins
-	* [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)	 	
+	* [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
+	* [marquee](https://github.com/aamirafridi/jQuery.Marquee)	 	
