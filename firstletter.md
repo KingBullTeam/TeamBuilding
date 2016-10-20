@@ -36,9 +36,32 @@
 	*	[webpack](http://webpack.github.io/)
 		*	[webpack学习之路](https://github.com/wangning0/Autumn_Ning_Blog/blob/master/blogs/3-12/webpack.md)
 
-
-
-
+*	IDE
+	*	[Atom](https://atom.io/)
+		
+		插件推荐
+		
+		* atom-beautify
+		* autoprefixer
+		* file-icons
+		* git-plus
+		* linter-eslint
+		* minimap
+		* project-manager
+		* 
+	*  [sublime](http://www.sublimetext.com/)
+	
+		插件推荐
+		
+		* autoprefixer
+		* color highlighter
+		* css format 
+		* docblockr
+		* emmet
+		* jsformat
+		* sublimelinter
+		* sublimetmpl
+		
 *	版本控制
 	*	[git](https://git-scm.com/download)
 		*	[git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
