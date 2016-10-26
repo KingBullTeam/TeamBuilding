@@ -16,7 +16,10 @@
 * JS
 	* [promise.js](https://github.com/ygm125/promise) 
 	* [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
-	* [hammer.js](https://github.com/hammerjs/hammer.js)
-	* [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
 	* [marquee](https://github.com/aamirafridi/jQuery.Marquee)	
-	* [xscroll](https://github.com/huxiaoqi567/xscroll) 	
+	* [xscroll](https://github.com/huxiaoqi567/xscroll) 
+	* [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
+	* 手势
+	 * [hammer.js](https://github.com/hammerjs/hammer.js)
+	 * [alloyFinger](https://github.com/AlloyTeam/AlloyFinger)
+		
