@@ -8,8 +8,8 @@
 
 
 *	js
-	*	es5[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)	
-	*	[es6](https://github.com/airbnb/javascript)
+	*	ES5 规范，参考：[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)	
+	*	[ES6 规范](https://github.com/airbnb/javascript)
 
 *	css
 	*	[css & sass Style Guide](https://github.com/airbnb/css)
@@ -19,9 +19,14 @@
 	*	[JQuery](http://www.css88.com/jqapi-1.9/)
 	*	[Backbone](http://www.css88.com/doc/backbone/)
 	*	[zepto](http://www.css88.com/doc/zeptojs_api/)
-	*	推荐学习
-		*	[vue](http://cn.vuejs.org/)
+	* Vue
+		*	[vue官网](http://cn.vuejs.org/)
 		*	[vux](https://github.com/airyland/vux)
+	* React
+		* [react 中文网](http://reactnative.cn/)
+		* [react 官网](https://facebook.github.io/react-native/)
+		* [redux 中文](http://www.redux.org.cn/)
+		* [dva 中文](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
 
 *	CSS & UI
 	*	[淘宝的REM](https://github.com/amfe/lib-flexible)
